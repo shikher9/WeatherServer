@@ -1,0 +1,19 @@
+2017-06-01 17:45:38.447  INFO 13204 --- [main] com.pivotusventures.weatherserver.App    : Starting App on LAPTOP-CKQQ771E with PID 13204 (C:\Users\shikh\Desktop\WeatherServer\target\classes started by shikh in C:\Users\shikh\Desktop\WeatherServer)
+2017-06-01 17:45:38.451  INFO 13204 --- [main] com.pivotusventures.weatherserver.App    : No active profile set, falling back to default profiles: default
+2017-06-01 17:45:38.500  INFO 13204 --- [main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@2bbaf4f0: startup date [Thu Jun 01 17:45:38 PDT 2017]; root of context hierarchy
+2017-06-01 17:45:40.056  INFO 13204 --- [main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8000 (http)
+2017-06-01 17:45:40.073  INFO 13204 --- [main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2017-06-01 17:45:40.075  INFO 13204 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.11
+2017-06-01 17:45:40.488  INFO 13204 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2017-06-01 17:45:40.606  INFO 13204 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+2017-06-01 17:45:40.609  INFO 13204 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-06-01 17:45:40.609  INFO 13204 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2017-06-01 17:45:40.610  INFO 13204 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2017-06-01 17:45:40.610  INFO 13204 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2017-06-01 17:45:41.169  INFO 13204 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-06-01 17:45:41.226  INFO 13204 --- [main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8000 (http)
+2017-06-01 17:45:41.231  INFO 13204 --- [main] com.pivotusventures.weatherserver.App    : Started App in 3.131 seconds (JVM running for 3.904)
+2017-06-01 17:45:45.443  INFO 13204 --- [http-nio-8000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2017-06-01 17:46:14.790  INFO 1092 --- [main] c.p.w.c.WeatherApiControllerTest         : Starting WeatherApiControllerTest on LAPTOP-CKQQ771E with PID 1092 (started by shikh in C:\Users\shikh\Desktop\WeatherServer)
+2017-06-01 17:46:14.793  INFO 1092 --- [main] c.p.w.c.WeatherApiControllerTest         : No active profile set, falling back to default profiles: default
+2017-06-01 17:46:16.923  INFO 1092 --- [main] c.p.w.c.WeatherApiControllerTest         : Started WeatherApiControllerTest in 2.685 seconds (JVM running for 4.137)
